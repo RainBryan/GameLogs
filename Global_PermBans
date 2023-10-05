@@ -1,0 +1,17 @@
+
+
+----------------------------------------
+-- Author: RainBryan
+-- Created: 10/5/2023
+-- Used By: RAIN Interactive
+----------------------------------------
+
+
+--// Global Server Bans / Blacklist \\--
+
+Global_Server_Bans = {
+
+  [3241397519] = "Exploiting",
+  [20963] = "No Reason Needed",
+
+}
